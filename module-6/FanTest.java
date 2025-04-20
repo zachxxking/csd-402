@@ -2,7 +2,7 @@
  * Zachariah King
  * Module 6 Assignment
  * 4/13/25
- * Description: Here is a java program that contains a Fan class that has several attributes and methods that describe a fan's state.
+ * Description: A java program that contains a Fan class that has several attributes and methods that describe a fan's state.
  */
 
 // FanTest class that contains the main method
